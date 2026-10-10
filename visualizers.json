@@ -1,0 +1,46 @@
+[
+  {
+    "id": 10,
+    "titles": {
+      "en": "Neon City",
+      "fa": "شهر نئونی",
+      "ar": "مدينة النيون",
+      "fr": "Ville Néon",
+      "it": "Città al Neon",
+      "es": "Ciudad Neón",
+      "de": "Neonstadt",
+      "tr": "Neon Şehir",
+      "ru": "Неоновый город",
+      "ja": "ネオンシティ",
+      "ko": "네온 시티"
+    },
+    "video_file": "neon_city.webm",
+    "card_file": "neon_city_cart.webm",
+    "thumb_file": "neon_city.jpg",
+    "effect_type": "PULSE",
+    "bass_boost": 1.2,
+    "is_free": false
+  },
+  {
+    "id": 11,
+    "titles": {
+      "en": "Cyberpunk Ride",
+      "fa": "سفر سایبرپانک",
+      "ar": "رحلة سايبربانك",
+      "fr": "Voyage Cyberpunk",
+      "it": "Corsa Cyberpunk",
+      "es": "Viaje Cyberpunk",
+      "de": "Cyberpunk-Fahrt",
+      "tr": "Siberpunk Yolculuk",
+      "ru": "Киберпанк поездка",
+      "ja": "サイバーパンクライド",
+      "ko": "사이버펑크 라이드"
+    },
+    "video_file": "cyberpunk_ride.webm",
+    "card_file": "cyberpunk_ride_cart.webm",
+    "thumb_file": "cyberpunk_ride.jpg",
+    "effect_type": "WAVE",
+    "bass_boost": 1.5,
+    "is_free": false
+  }
+]
